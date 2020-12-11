@@ -33,7 +33,9 @@ public class Mensajes {
         }
         
     }
-    
+	public void MensajesPrueba(){
+	System.out.println("Pruebas de git");
+	}
     
     
 }
